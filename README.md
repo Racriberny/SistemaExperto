@@ -75,6 +75,28 @@ Caracteristicas:
 
 CLIPS se consideraba un sistema experto bien establecido y se había utilizado en una variedad de aplicaciones a lo largo de los años. Se sigue usando aunque esta bajando la popularidad.
 
+**5. ¿Cual es el futuro de los sistemas expertos con el auge de la inteligencia artificial, es decir como afectará la IA a los SE?**
+
+Los sistemas expertos son una subcategoría de la IA, por lo que se benefician de los avances tecnológicos en este campo. Aqui te describo algunas de las formas en que la IA está afectando a los sistemas expertos.
+
+1- Mejora la eficiencia: La IA está permitiendo que los sistemas expertos sean más eficientes y rápidos en la toma de decisiones. 
+
+2- Integración de datos en tiempo real: La IA facilita la integración de datos en tiempo real en los sistemas expertos, lo que les permite tomar decisiones más informadas y actualizadas. 
+
+3- Automatización de tareas: La IA permite la automatización de tareas que antes requerían la intervención de expertos humanos. Los sistemas expertos pueden utilizar algoritmos de IA para realizar tareas repetitivas y tediosas, liberando a los expertos para trabajar en problemas más complejos.
+
+4- Aprendizaje continuo: Los sistemas expertos pueden aprovechar el aprendizaje automático para mejorar con el tiempo. A medida que se recopila más información y se toman decisiones, el sistema experto puede ajustar sus reglas y recomendaciones en función de retroalimentación en tiempo real.
+
+5- Interacción más natural: Los avances en NLP permiten una interacción más natural con los sistemas expertos. Los usuarios pueden hacer preguntas en lenguaje natural en lugar de tener que aprender comandos específicos, lo que hace que la tecnología sea más accesible.
+
+6- Escalabilidad: La IA permite que los sistemas expertos sean más escalables. Pueden manejar un mayor volumen de consultas y decisiones sin perder calidad en el servicio.
+
+7- Resolución de problemas más complejos: Los sistemas expertos pueden abordar problemas más complejos y multifacéticos con la ayuda de algoritmos de IA. Esto es especialmente útil en campos como la ingeniería, la investigación científica y la gestión empresarial.
+
+8- Aplicaciones en tiempo real: La IA habilita sistemas expertos que pueden tomar decisiones en tiempo real, como en sistemas de control de procesos industriales o en aplicaciones de seguridad.
+
+
+
 
 
 
