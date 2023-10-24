@@ -1,6 +1,6 @@
 # SistemaExperto
 
-**1. Define que son lenguajes imperativos y declarativos.**
+### **1. Define que son lenguajes imperativos y declarativos.**
 
 **Imperativo**
 Un sistema imperativo controla una maquina o mecanismo que ayuda a producir el resultado deseado. Normalmente, los usuarios expresan sus deseos sobre el resultado final en una especificación y un programador crea un sistema para producir el resultado.
@@ -29,7 +29,7 @@ Desventajas: Dificil de comprender para personas ajenas, basado en una forma de 
 
 
 
-**3. Define que es un sistema experto y que tipo de tareas se pueden resolver con él. Pon ejemplos reales de sistemas expertos, que hacen y donde se utilizan.**
+### **3. Define que es un sistema experto y que tipo de tareas se pueden resolver con él. Pon ejemplos reales de sistemas expertos, que hacen y donde se utilizan.**
 
 Un sistema experto es un tipo de software diseñado para imitar la capacidad de toma de deciciones de un experto humano en un dominio específico. Estos sistema son una rama de la inteligencia artificial y se basa en el conocimiento y la lógica para resolver problemass y tomar decisiones. Los sistemas tienen reglas y hechos almacenados en una base de d conocimiento para razonar y proporcionar recomendaciones o soluciones en situaciones relacionadas con su área de experiencia.
 
@@ -57,7 +57,7 @@ Ejemplos donde se usen:
 
 2- Aplicaciones de asistencia virtual como Siri de Apple y Alexa de Amazon, que utilizan inteligencia artificial y sistemas expertos para responder preguntas y realizar tareas específicas en función del conocimiento almacenado en su base de datos.
 
-**4. ¿Qué es CLIPS?, quién lo crea, en que año, se sigue manteniendo en la actualidad, acaba de completar con datos que consideres interesantes.**
+### **4. ¿Qué es CLIPS?, quién lo crea, en que año, se sigue manteniendo en la actualidad, acaba de completar con datos que consideres interesantes.**
 
 CLIPS es un sistema experto y un lenguaje de programación desarrollado para la creación de sistemas expertos. Fue creado por Charles L. Forgy en 1985. CLIPS, que significa "C Language Integrated Production System," es un entorno de desarrollo que combina reglas, hechos y objetos para construir sistemas expertos.
 
@@ -75,7 +75,7 @@ Caracteristicas:
 
 CLIPS se consideraba un sistema experto bien establecido y se había utilizado en una variedad de aplicaciones a lo largo de los años. Se sigue usando aunque esta bajando la popularidad.
 
-**5. ¿Cual es el futuro de los sistemas expertos con el auge de la inteligencia artificial, es decir como afectará la IA a los SE?**
+### **5. ¿Cual es el futuro de los sistemas expertos con el auge de la inteligencia artificial, es decir como afectará la IA a los SE?**
 
 Los sistemas expertos son una subcategoría de la IA, por lo que se benefician de los avances tecnológicos en este campo. Aqui te describo algunas de las formas en que la IA está afectando a los sistemas expertos.
 
