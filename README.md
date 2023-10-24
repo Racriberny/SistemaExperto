@@ -24,6 +24,46 @@ Ventajas: Codigo más corto y eficiente, realizable con métodos no conocido en 
 Desventajas: Dificil de comprender para personas ajenas, basado en una forma de pensar no habitual.
 
 
+2. ACABAR FOTO
+
+
+
+
+**3. Define que es un sistema experto y que tipo de tareas se pueden resolver con él. Pon ejemplos reales de sistemas expertos, que hacen y donde se utilizan.**
+
+Un sistema experto es un tipo de software diseñado para imitar la capacidad de toma de deciciones de un experto humano en un dominio específico. Estos sistema son una rama de la inteligencia artificial y se basa en el conocimiento y la lógica para resolver problemass y tomar decisiones. Los sistemas tienen reglas y hechos almacenados en una base de d conocimiento para razonar y proporcionar recomendaciones o soluciones en situaciones relacionadas con su área de experiencia.
+
+Los sistemas expertos se utilizan para una amplia variedad de tareas en diversos campos, como la medicina, la ingeniería, la gestión empresarial, la informática, la educación y muchos otros.
+
+Aqui tienes tareas que resuelven con sistemas expertos:
+
+1. Diagnóstico médico: Los sistemas expertos médicos pueden ayudar a los médicos a diagnosticar enfermedades y trastornos basándose en síntomas y datos clínicos.
+   
+2. Soporte técnico: Los sistemas expertos pueden proporcionar asistencia en la resolución de problemas técnicos.
+   
+3. Control de procesos industriales: En entornos industriales, los sistemas expertos pueden supervisar y controlar procesos complejos para optimizar la producción y garantizar la seguridad.
+   
+4. Gestión de recursos humanos: Los sistemas expertos pueden ayudar en la toma de decisiones relacionadas con la contratación, la asignación de personal y la evaluación del desempeño.
+
+5. Planificación y programación: Los sistemas expertos pueden ayudar en la planificación de tareas y programación de proyectos.
+
+6. Análisis financiero: Los sistemas expertos pueden ayudar en la evaluación de riesgos financieros, la toma de decisiones de inversión y la gestión de carteras de inversión.
+
+7. Educación: Los sistemas expertos pueden ser utilizados en tutoriales interactivos que proporcionan explicaciones detalladas y ejercicios adaptativos para estudiantes.
+
+Ejemplos donde se usen: 
+
+1- Dendral, primeros sistemas expertos desarrollados para la identificación de compuestos químicos desconocidos.
+
+2- Aplicaciones de asistencia virtual como Siri de Apple y Alexa de Amazon, que utilizan inteligencia artificial y sistemas expertos para responder preguntas y realizar tareas específicas en función del conocimiento almacenado en su base de datos.
+
+
+
+
+
+
+
+
 
     
   
