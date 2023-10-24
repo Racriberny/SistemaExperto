@@ -24,9 +24,9 @@ Ventajas: Codigo más corto y eficiente, realizable con métodos no conocido en 
 Desventajas: Dificil de comprender para personas ajenas, basado en una forma de pensar no habitual.
 
 
-2. ACABAR FOTO
+## **2. Crea un mapa mental con freeplane, la raiz se llamará tipos de lenguajes, con dos hijos imperativos y declarativos, añadiendo sus tipos y ejemplos de lenguajes que lo usan, por ejemplo: imperativo, OOP, Java., en cada lenguaje indica para que se usan en general en la vida real y ejemplos de aplicaciones comerciales que lo usan.**
 
-
+![imagen](https://github.com/Racriberny/SistemaExperto/assets/90463533/8ffca096-de25-48de-b92a-80cd6bcb31b3)
 
 
 ### **3. Define que es un sistema experto y que tipo de tareas se pueden resolver con él. Pon ejemplos reales de sistemas expertos, que hacen y donde se utilizan.**
