@@ -95,15 +95,10 @@ Los sistemas expertos son una subcategoría de la IA, por lo que se benefician d
 
 8- Aplicaciones en tiempo real: La IA habilita sistemas expertos que pueden tomar decisiones en tiempo real, como en sistemas de control de procesos industriales o en aplicaciones de seguridad.
 
+## **6. En el ejemplo en rojo que puedes encontrar mas abajo, haz que el código imprima "jirafa", ¿cómo lo has hecho?**
 
 
+![imagen](https://github.com/Racriberny/SistemaExperto/assets/90463533/c82925d3-2b8e-40ee-a73e-38af661a4bfa)
 
 
-
-
-
-
-    
-  
-
-   
+Tienes que eliminar el hecho (tiene-rayas-negras) y añadirle otro hecho que sea (tiene-cuello-largo) y con eso ya te sale la respuesta de Jirafa.
