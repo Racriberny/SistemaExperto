@@ -57,7 +57,23 @@ Ejemplos donde se usen:
 
 2- Aplicaciones de asistencia virtual como Siri de Apple y Alexa de Amazon, que utilizan inteligencia artificial y sistemas expertos para responder preguntas y realizar tareas específicas en función del conocimiento almacenado en su base de datos.
 
+**4. ¿Qué es CLIPS?, quién lo crea, en que año, se sigue manteniendo en la actualidad, acaba de completar con datos que consideres interesantes.**
 
+CLIPS es un sistema experto y un lenguaje de programación desarrollado para la creación de sistemas expertos. Fue creado por Charles L. Forgy en 1985. CLIPS, que significa "C Language Integrated Production System," es un entorno de desarrollo que combina reglas, hechos y objetos para construir sistemas expertos.
+
+Caracteristicas: 
+
+1- Lenguaje de programación: CLIPS se utiliza para escribir reglas y lógica para sistemas expertos. Permite definir hechos, reglas y acciones que el sistema experto debe tomar en función del conocimiento proporcionado.
+
+2- Sistema de inferencia: CLIPS incorpora un motor de inferencia que evalúa las reglas y hechos para tomar decisiones basadas en la información disponible.
+
+3- Entorno de desarrollo: Proporciona un entorno gráfico y de línea de comandos para el desarrollo, depuración y ejecución de sistemas expertos.
+
+4- Mantenimiento de la base de conocimiento: Facilita la actualización y modificación de la base de conocimiento de un sistema experto sin requerir una reescritura completa del código.
+
+5- Interfaz de usuario gráfica: Ofrece una interfaz gráfica de usuario que facilita la interacción con los sistemas expertos creados en CLIPS
+
+CLIPS se consideraba un sistema experto bien establecido y se había utilizado en una variedad de aplicaciones a lo largo de los años. Se sigue usando aunque esta bajando la popularidad.
 
 
 
