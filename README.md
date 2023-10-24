@@ -102,3 +102,6 @@ Los sistemas expertos son una subcategoría de la IA, por lo que se benefician d
 
 
 Tienes que eliminar el hecho (tiene-rayas-negras) y añadirle otro hecho que sea (tiene-cuello-largo) y con eso ya te sale la respuesta de Jirafa.
+
+![imagen](https://github.com/Racriberny/SistemaExperto/assets/90463533/50c2c3e5-5b9b-4183-9dae-261d5a258f09)
+
